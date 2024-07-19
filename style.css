@@ -420,7 +420,7 @@ opacity: inherit;
 .column ul {
     display: flex;
     flex-direction: column;
-    /* row-gap: 5px, */
+     row-gap: 5px, 
 }
 .column img{
     width: 50%;
